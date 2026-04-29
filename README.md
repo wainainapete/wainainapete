@@ -1,3 +1,1 @@
-Hi there, I'm Peter Wainaina N 👋
-I am a Data & ICT Professional with over 5 years of experience in data analytics, IT infrastructure, and software development. My passion lies in building robust systems and using data to drive real-world solutions.
-
+Hey, Am Peter Wainaina N. I am a Data, ICT and AI professional with 9+ years of experience building technology solutions across humanitarian, agricultural, and development sectors in Africa. My work spans ML data pipelines and climate risk modelling as a UNV Online Volunteer with GCRI, GIS and data analytics for USAID-funded agricultural programs, and humanitarian data management with Church World Service RSC Africa. I hold a Bachelor's in Business Information Technology and a Diploma in Artificial Intelligence specializing in Neural Networks. Currently freelancing on remote AI projects and also onboarding as an AI Research Engineer at ACFAI.
